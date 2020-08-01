@@ -15,3 +15,7 @@ not i
 ## This is another test header
 
 The quick brown fox jumped over the lazy dog
+
+## After a thousand eyars of darkness, he will come: clad in blue and surrounded by fields of gold. To restore human kind's connection to the earth what was lost. Something something
+
+## -Random quote from Nausicaa and the Valley of the WInd
